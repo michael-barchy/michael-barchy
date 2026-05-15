@@ -1,12 +1,12 @@
 # Michaël BARCHY
 
-**Analyste / Développeur Senior Full Stack (Angular & PHP/Node.js)**
+**Analyste / Développeur Senior Full Stack (Angular & PHP/NodeJS)**
 
 ---
 
 ## Profil
 
-Développeur expérimenté spécialisé dans l'écosystème Angular, avec une solide expertise en développement Full Stack (Node.js, PHP/Symfony). Expert dans la création d'interfaces complexes, j'allie rigueur analytique et maîtrise des technologies frontend modernes pour concevoir des solutions performantes et centrées sur l'utilisateur.
+Développeur expérimenté spécialisé dans l'écosystème Angular, avec une solide expertise en développement Full Stack (NodeJS, PHP/Symfony). Expert dans la création d'interfaces complexes, j'allie rigueur analytique et maîtrise des technologies frontend modernes pour concevoir des solutions performantes et centrées sur l'utilisateur.
 
 ---
 
@@ -34,8 +34,8 @@ Développeur expérimenté spécialisé dans l'écosystème Angular, avec une so
 
 *2014 – 2022*
 
-* **Application "Bons Cadeaux" :** Développement complet d'une solution Full Stack (Angular, Node.js, SQL Server) gérant plus de 4000 enregistrements pour les assistants sociaux.
-* **Automatisation :** Implémentation de la facturation électronique Fidus via un service Node.js.
+* **Application "Bons Cadeaux" :** Développement complet d'une solution Full Stack (Angular, NodeJS, SQL Server) gérant plus de 4000 enregistrements pour les assistants sociaux.
+* **Automatisation :** Implémentation de la facturation électronique Fidus via un service NodeJS.
 * **Applications Mobiles :** Développement d'applications Android pour l'inventaire informatique et la gestion des réquisitoires santé.
 
 ### **LCI / UPDATE asbl** | Formateur & Développeur Web
@@ -49,7 +49,7 @@ Développeur expérimenté spécialisé dans l'écosystème Angular, avec une so
 ## Compétences Techniques
 
 * **Frontend :** Angular (v14 à v20), TypeScript, PrimeNG, RxJS, Konva (Canvas), CSS/SASS.
-* **Backend :** Node.js, PHP (Symfony), ASP, Coldfusion.
+* **Backend :** NodeJS, PHP (Symfony), ASP, Coldfusion.
 * **Base de données :** SQL Server, MySQL.
 * **Outils & Méthodes :** CI/CD (GitLab, GitHub), Docker, Kubernetes, Jira, Analyse fonctionnelle, Méthode Agile.
 
