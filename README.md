@@ -1,7 +1,6 @@
 # Michaël BARCHY
 
 **Analyste / Développeur Senior Full Stack (Angular & PHP/Node.js)**
-📍 7060 Soignies | ✉️ michael.barchy@gmail.com | 📞 +32 485 07 63 08
 
 ---
 
