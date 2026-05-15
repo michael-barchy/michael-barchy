@@ -60,13 +60,13 @@ Développeur expérimenté spécialisé dans l'écosystème Angular, avec une so
 * **Français :** Langue maternelle.
 * **Anglais :** Bon niveau (spécialisation informatique).
 * **Néerlandais :** Niveau moyen (Certificat Selor Article 8 - Administratif).
-* **Certifications :** Management & Gestion de projet (2017), Développement Web XPage (IBM Notes).
+* **Certifications :** Certificat en bureautique ECDL (2005), Développement Web XPage (IBM Notes).
 
 ---
 
 ## Formation
 
 * **Enseignement Secondaire :** Langues modernes (Anglais, Allemand, Néerlandais) au Collège Notre-Dame de Basse Wavre (1997).
-* **Formation Continue :** Conférence FrenchKit sur le développement mobile iOS (2016), Certificat en bureautique ECDL (2005).
+* **Formation Continue :** Conférence FrenchKit sur le développement mobile iOS (2016), Gestion de projet (2017).
 
 ---
